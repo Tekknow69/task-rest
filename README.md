@@ -6,6 +6,14 @@
 
 
 # task-rest
- Login and get order data from Rest api
+Login and get order data from Rest api
 
 This project is for educational purposes only. Thank you for your cooperation!
+
+To run needed software:
+XAMPP OR WAMP
+php PHP 7.3.28 version
+
+If dosen't work please configure/run on xampp virtual host
+
+
